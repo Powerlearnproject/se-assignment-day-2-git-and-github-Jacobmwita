@@ -6,7 +6,7 @@ A repository is a storage location where your project's files and their version 
 Commit:
 
 A commit is a snapshot of your project at a specific point in time. Each commit contains a record of changes made since the last commit and is identified by a unique hash.
-Branch:
+Branc
 
 A branch is a separate line of development. Developers can create branches to work on new features or fixes independently of the main codebase (usually called the "main" or "master" branch).
 Merge:
