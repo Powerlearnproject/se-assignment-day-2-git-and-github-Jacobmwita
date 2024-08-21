@@ -2,7 +2,7 @@
 ## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
 Repository (Repo):
 
-A repository is a storage location where your project's files and their version history are stored. It can be local (on your machine) or remote (on a server).
+A repository is a storage location where your project's files and their version history are stored. It can be local (on your machine) or remote (on a server
 Commit:
 
 A commit is a snapshot of your project at a specific point in time. Each commit contains a record of changes made since the last commit and is identified by a unique hash.
