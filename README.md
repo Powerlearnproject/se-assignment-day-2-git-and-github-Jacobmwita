@@ -35,7 +35,7 @@ Open Source Community:
 GitHub is a central hub for open-source projects, making it easy to contribute to and discover new projects.
 Documentation and Wiki:
 
-GitHub provides features for maintaining project documentation and wikis, which helps in keeping all project-related information in one place.
+GitHub provides features for maintaining project documentation and wikis, which helps in keeping all project-related information in one place
 Security:
 
 GitHub offers various security features like secret scanning, dependency alerts, and the ability to review code for vulnerabilities, ensuring that projects remain secure.
